@@ -1,0 +1,51 @@
+h1{color: brown;
+    font-size: 40px;
+}
+h4{
+    color: blue;
+    font-size:15px; 
+}
+button{
+    color: rgb(205, 24, 60);
+     border: 1px solid  black;
+     padding: 10px 15px 15px 10px;
+     margin: 20px; 
+     background-color: blue;
+     font-size: 25px;
+}
+button:hover{
+    color:gold;
+    background-color: black;
+}
+.bigdiv{display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.indiv1{color: black;
+     background-color: #200d7d;
+  width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
+.indiv2{
+    color: black;
+     background-color: #278927;
+  width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
+.indiv3{color: black;
+     background-color: #b6ed11;
+  width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+
+ 
+
+
+
+
+
+ 
